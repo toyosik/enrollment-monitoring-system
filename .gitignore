@@ -1,0 +1,4 @@
+node_modules/
+enrollment.db
+pipeline.log
+.DS_Store
